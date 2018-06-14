@@ -1,1 +1,1 @@
-#React-guide for futer reference
+#React-guide for future reference
